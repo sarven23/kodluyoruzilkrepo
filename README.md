@@ -1,2 +1,1 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+![gorsel](https://pbs.twimg.com/profile_images/1506852727246229504/12_wNyNq_400x400.jpg)
